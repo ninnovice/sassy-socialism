@@ -2,7 +2,8 @@
 
 ## Setup Instructions
 1. This assumes node, npm, and bower are already installed in the system, you can easily find its installation procedure online
-2. Clone the project directory anywhere in the system, let us call that directory $PROJECT_HOME
+2. Phantom.js and git preferably preinstalled
+3. Clone the project directory anywhere in the system, let us call that directory $PROJECT_HOME
 ~~~~
 cd $PROJECT_HOME
 npm install
